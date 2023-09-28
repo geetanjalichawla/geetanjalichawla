@@ -1,140 +1,38 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm geetanjali chawla</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geetanjalichawla&label=Profile%20views&color=0e75b6&style=flat" alt="geetanjalichawla" /> </p>
 
-<h1 align="center">Hi 👋, I'm Geetanjali Chawla</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geetanjalichawla" alt="geetanjalichawla" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/geetanjali1919" target="blank"><img src="https://img.shields.io/twitter/follow/geetanjali1919?logo=twitter&style=for-the-badge" alt="geetanjali1919" /></a> </p>
 
+- 🔭 I’m currently working on [UB factory](https://ubfactory-web.vercel.app)
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Geetanajali Chawla 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻; Interested in working with team;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+- 🌱 I’m currently learning **docker**
+
+- 👨‍💻 All of my projects are available at [https://geetanjalichawla.netlify.app/](https://geetanjalichawla.netlify.app/)
+
+- 💬 Ask me about **react , node , redux,**
+
+- 📫 How to reach me **geetanjalichawla1919@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/geetanjalichawla/overlay/1635541144725/single-media-viewer/?profileId=ACoAACI-DKcBYUkOgvT3bKdEGETNkjaj4xpIltA](https://www.linkedin.com/in/geetanjalichawla/overlay/1635541144725/single-media-viewer/?profileId=ACoAACI-DKcBYUkOgvT3bKdEGETNkjaj4xpIltA)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/geetanjali1919" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geetanjali1919" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/geetanjalichawla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geetanjalichawla" height="30" width="40" /></a>
+<a href="https://instagram.com/geetchawla1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geetchawla1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/geetanjalichawla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="geetanjalichawla" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/geetanjalichawla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geetanjalichawla" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<h3 align="center" an aspiring Full Stack MERN Developer from India.</h3>
-  
-<h3>I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things. I focus on writing clean, elegant and efficient code ✨ with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience. I take into consideration writing reusable and efficient code. I have been passionately combining good design, technology, and innovation in all my projects.</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geetanjalichawla&show_icons=true&locale=en&layout=compact" alt="geetanjalichawla" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geetanjalichawla&show_icons=true&locale=en" alt="geetanjalichawla" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lokesh-patidar&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-patidar" /> </p>
-
-<h3 align="left">Git profile Trophies:</h3>
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=geetanjalichawla" alt="geetanjali chawla" />
-  </a> 
-</p>
-
-
-🔭 I’m currently exploring and polishing my skills
-
-🌍 I'm basically from Madhya Pradesh, India
-
-⚛️ Some technologies that I love to working with includes MERN stack, Typescript & Web Testing.
-
-👨‍💻 My Portfilio [Click here](https://geetanjalichawla.github.io/)
-
-
-
-👀 My Github Repositories [Click here](https://github.com/geettanjalichawla?tab=repositories)
-
-🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, Bootstrap node js etc.
-
-📧 Email - geetanjalichawla1919@gmail.com
-
-📄 Know about my skills  [Resume](https://1drv.ms/b/s!AiSQDUviI7FkaxKlaRjkZfvl3nM?e=RKg89O) 
-
-
- [Resume](https://1drv.ms/b/s!AiSQDUviI7FkaxKlaRjkZfvl3nM?e=RKg89O) 
-
-
-
-
-
-
-<p><a href="https://geetanjalichawla.github.io/">My Portfolio </a></p>
-
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geetanjalichawla/)
-
-<br/>
-
-<h2 align="center">💻 Tech Stack</h2>
-
-<div align="center">
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"  align="center" alt="type script"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"  align="center" alt="styled component" />
-</div>
-
-<br/>
-<br/>
-
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" alt="css3"/>   
-</p>
- 
-
-<div align="center"><h3 align="center">Tools</h3> 
-   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-  <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-  <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-  
-   <br/>
-  <br/>
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
- </div>
-</div>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<h2 align="center">📊 My Github Stats</h2>
-<br/>
-
-   <br/>   
-    <p align="center">      
-  <a href="https://github.com/geetanjalichawla/github-readme-stats"><img alt="geetanjali chawla Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=geetanjali-chawla&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color" /></a>
-      </p>      
-     <br/>
-   <p align="center">
-    <a href="https://github.com/geetanjalichawla/github-readme-streak-stats-sigma-five">
-  <img alt="geetanjali chawla streak" src="https://streak-stats.demolab.com/?user=geetanjalichawla&theme=neon-dark&hide_border=true&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j"/>
-  </a>
-  
-</p>                                                                                                                                              
-    
-  <br/>
-  <br/>
-     <p align="center">                                                                                                 
-  
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=geetanjalichawla&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="geetanjali chawla" />
-    
-    
- <h6 align="center"> 
-
-<br/>
-<br/>
-  
-<p align="center">
-<a href="https://github.com/geetanjalichawla"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geetanjalichawla&theme=dracula" />
-</span></a> </p>
-
-<br/>
-<br/>
-
-  <br/>
-
-<a href="https://github.com/geetanjalichawla/github-readme-activity-graph"><img alt="geetanjali chawla Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=geetanjalichawla&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geetanjalichawla&" alt="geetanjalichawla" /></p>
