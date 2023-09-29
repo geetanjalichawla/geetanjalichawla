@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **geetanjalichawla1919@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/geetanjalichawla/overlay/1635541144725/single-media-viewer/?profileId=ACoAACI-DKcBYUkOgvT3bKdEGETNkjaj4xpIltA](https://www.linkedin.com/in/geetanjalichawla/overlay/1635541144725/single-media-viewer/?profileId=ACoAACI-DKcBYUkOgvT3bKdEGETNkjaj4xpIltA)
+- 📄 Know about my experiences [[https://www.linkedin.com/in/geetanjalichawla/overlay/1635541144725/single-media-viewer/?profileId=ACoAACI-DKcBYUkOgvT3bKdEGETNkjaj4xpIltA](https://www.linkedin.com/in/geetanjalichawla/overlay/1635541144725/single-media-viewer/?profileId=ACoAACI-DKcBYUkOgvT3bKdEGETNkjaj4xpIltA)](https://www.linkedin.com/in/geetanjalichawla/overlay/1635542903421/single-media-viewer/?profileId=ACoAACI-DKcBYUkOgvT3bKdEGETNkjaj4xpIltA)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
